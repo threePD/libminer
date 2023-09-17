@@ -11,7 +11,8 @@ A \code{data.frame} containing the count of packages in each of
 the user's libraries.
 }
 \description{
-Provides a brief summary of the package libraries on your machine
+Provides a brief summary of the package libraries on
+your machine
 }
 \examples{
 lib_summary()
