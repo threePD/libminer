@@ -5,6 +5,7 @@
 #'
 #' @param sizes Should the sizes of the libraries be calculated?
 #'   Logical; default `FALSE`.
+#'
 #' @return A `data.frame` containing the count of packages in each of
 #' the user's libraries.
 #'
