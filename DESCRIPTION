@@ -1,7 +1,9 @@
 Package: libminer
 Title: Explore Your R Libraries
 Version: 0.0.0.9000
-Authors@R: person("Patrick", "Donohue", , "j.patrick.donohue@gmail.com", role = c("aut", "cre"))
+Authors@R: person(
+  given = "Patrick", family = "Donohue",
+  email = "j.patrick.donohue@gmail.com", role = c("aut", "cre"))
 Description: Provides functions for learning about your R libraries, and the 
   packages you have installed.
 License: MIT + file LICENSE
